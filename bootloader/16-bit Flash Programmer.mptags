@@ -1,0 +1,69 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+BAUDRATE	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	21;"	d	line:21	file:
+BRGVAL	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	22;"	d	line:22	file:
+Buffer	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	63;"	v	line:63
+CM_ROW_SIZE	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	13;"	d	line:13	file:
+COMMAND_ACK	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	4;"	d	line:4	file:
+COMMAND_NACK	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	3;"	d	line:3	file:
+COMMAND_READ_ID	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	9;"	d	line:9	file:
+COMMAND_READ_PM	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	5;"	d	line:5	file:
+COMMAND_RESET	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	8;"	d	line:8	file:
+COMMAND_WRITE_CM	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	7;"	d	line:7	file:
+COMMAND_WRITE_PM	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	6;"	d	line:6	file:
+CONFIG_WORD_SIZE	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	14;"	d	line:14	file:
+CONFIG_WORD_WRITE	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	18;"	d	line:18	file:
+Command	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	124;"	l	line:124
+DataCount	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	311;"	l	line:311
+Delay	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	70;"	l	line:70
+FCY	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	20;"	d	line:20	file:
+FNOSC_PRIPLL	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	25;"	v	line:25
+FWDTEN_OFF	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	32;"	v	line:32
+GCP_OFF	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	35;"	v	line:35
+GetChar	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	254;"	f	line:254	signature:(char * ptrChar)
+GetChar	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	58;"	p	line:58	file:	signature:(char *)
+HW	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	50;"	m	line:50	struct:tuReg32::<anonymous>	file:
+LW	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	49;"	m	line:49	struct:tuReg32::<anonymous>	file:
+PM_ROW_ERASE	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	16;"	d	line:16	file:
+PM_ROW_SIZE	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	12;"	d	line:12	file:
+PM_ROW_WRITE	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	17;"	d	line:17	file:
+POSCMD_XT	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	26;"	v	line:26
+PWRTEN_OFF	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	34;"	v	line:34
+PutChar	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	319;"	f	line:319	signature:(char Char)
+PutChar	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	57;"	p	line:57	file:	signature:(char)
+ReadLatch	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	56;"	p	line:56	file:
+ReadPM	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	289;"	f	line:289	signature:(char * ptrData, uReg32 SourceAddr)
+ReadPM	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	60;"	p	line:60	file:	signature:(char *, uReg32)
+Size	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	149;"	l	line:149
+Size	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	192;"	l	line:192
+Size	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	209;"	l	line:209
+Size	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	291;"	l	line:291
+Size	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	329;"	l	line:329
+Size1	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	329;"	l	line:329
+SourceAddr	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	132;"	l	line:132
+SourceAddr	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	148;"	l	line:148
+SourceAddr	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	172;"	l	line:172
+SourceAddr	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	208;"	l	line:208
+SourceAddr	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	69;"	l	line:69
+Temp	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	173;"	l	line:173
+Temp	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	210;"	l	line:210
+Temp	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	292;"	l	line:292
+Temp	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	330;"	l	line:330
+UWord16	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	39;"	t	line:39	file:
+UWord32	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	41;"	t	line:41	file:
+Val	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	53;"	m	line:53	union:tuReg32	file:
+Val32	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	45;"	m	line:45	union:tuReg32	file:
+Word	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	51;"	m	line:51	union:tuReg32	file:
+Word16	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	38;"	t	line:38	file:
+Word32	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	40;"	t	line:40	file:
+WriteBuffer	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	309;"	f	line:309	signature:(char * ptrData, int Size)
+WriteBuffer	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	59;"	p	line:59	file:	signature:(char *, int)
+WritePM	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	327;"	f	line:327	signature:(char * ptrData, uReg32 SourceAddr)
+WritePM	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	61;"	p	line:61	file:	signature:(char *, uReg32)
+main	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	65;"	f	line:65	signature:(void)
+tuReg32	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	43;"	u	line:43	file:
+uReg32	C:\cvs\src\33F\R_apps\16-bit Flash Programmer\main.c	54;"	t	line:54	file:

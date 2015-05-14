@@ -1,0 +1,84 @@
+ Programa que permite configurar los descriptores y los archivos instaladores inf
+ necesarios para enumerar los pic 18F4x5x y hacer posible las transferencias
+ a través del puerto serie universal USB.
+
+ En la primera versión se manejan 2 tipos de transferencias, la de propósito
+ general como la define Microchip usando la biblioteca mpusbapi.dll[1] y su instalador
+ mchpusb.inf y la emulación RS-232 mediante la clase CDC[2] con su instalador
+ mchpcdc.inf
+
+ En la parte de la programación del uC PIC, ambos usan unas funciones que provee
+ el PIC C Compiler de la empresa CCS. En el caso [1] se gestiona con usb_desc_scope.h
+ en el caso [2] se gestiona con usb_desc_cdc.h
+
+ La idea es que el usuario pueda cambiar los datos, tales como el nombre del dispositivo,
+ el fabricante, el Vendor ID, el Product ID, etc y el programa se encargue de modificar
+ dichos datos en los archivos mencionados anterioriormente.
+
+-------------------------------------------------------------------------------
+ Historial:
+
+ v3.1. 06-Mar-09
+
+    - Arreglado un bug relacionado al sobrescribir los archivos generados.
+    - Se añadió la opción de escoger el tipo de ícono del dispositivo, si se quiere
+      usar un ícono personalizado ó usar el predeterminado de windows (Win Vista).
+	- Probado y funcional para Windows Vista 32.
+
+ ------------------------------------------------------------------------------------
+ v3.0 27-oct-08
+ 
+  - Mudado el código fuente del Visual Basic 6.0 al AutoIT  con la iniciativa
+   de apoyar al software libre ;-)
+ 
+ - Actualizado para MCHPFSUSB v1.1.0.0 (June 23, 2008) que corresponde a la     actualización de:
+   - mchpusb.inf
+   - mchpusb.sys
+   - mchpusb64.sys
+   - mchpusb.cat
+   
+   - mchpcdc.inf
+   - mchpcdc.cat
+   (para mayor información leer las release notes de MCHPFSUSB en www.microchip.com)
+
+-  Añadida multitud de mejoras como comprobaciones de los textos, cambio total en la interfaz de idioma Inglés <-> Español 
+ ------------------------------------------------------------------------------------
+ v2.0 01-feb-08
+
+ - añadida nuevas opciones:
+   - Crear una clase aparte solo para el dispositivo.
+   - incluir un ícono a esa clase creada.
+   - mejor estructuración de código fuente.
+   - al cerrar el programa se guardan los datos de todos los campos.
+   - al abrir el programa se cargan los datos de todos los campos, guardados
+     con anterioridad.
+ 
+ ------------------------------------------------------------------------------------
+ v1.0 versión inicial 09-ene-08
+
+ ------------------------------------------------------------------------------------
+ Sobre los Derechos
+
+ Cualquier persona es libre de usar, modificar, mejorar como quiera este
+ software SIN fines de lucro y siempre y cuando conserve el/los nombre/s
+ del/los autor/es original/es.
+ 
+ En el historial ó en los codigos de las funciones, procedimientos a nivel
+ de clase, modular o de formulario puede incluir la autoría y las modificaciones
+ hechas respectivas.
+ 
+ About copyright:
+ 
+ Anybody is free of use, modify, improve how want this software and must be used
+ NO lucre and ALWAYS maintain the original(s) author(s) name(s).
+ 
+ In history record or sources codes from functions, procedures, modular codes you can
+ include your authorship of the modification source code made respectively.
+ 
+ ------------------------------------------------------------------------------------
+ 
+Requisitos Sistema:
+- 16MB RAM, Windows 2000, XP, VISTA (32 bits)
+- No lo he probado en windows (64 bits). Si usted lo intenta, envieme un mail :)
+
+palitroquez@gmail.com

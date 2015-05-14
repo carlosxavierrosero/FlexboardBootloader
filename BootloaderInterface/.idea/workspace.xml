@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8669d48d-3ecb-4155-9675-b4c655191397" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cracks .gld/Screenshot from 2014-10-28 22-28-36.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cracks .gld/Screenshot from 2014-10-28 22-29-38.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NEW EXPERIMENT STEP RESPONSE/figure_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/BootloaderInterface.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pendulum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/erase.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NEW EXPERIMENT STEP RESPONSE/experiment.xav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiment_20150506_043411.xav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiment_20150506_045223.xav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiment_20150506_045248.xav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiment_20150506_045349.xav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiment_20150506_083922.xav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiment_20150506_102342.xav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiment_20150506_102652.xav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiment_20150506_102701.xav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiment_20150506_105657.xav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiment_20150507_034417.xav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiment_20150507_064910.xav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiment_20150507_064943.xav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiment_20150509_075852.xav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiment_20150509_075910.xav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EXPERIMENT INTERVAL PEELER/experiment_manel.csp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EXPERIMENT INTERVAL PEELER/figure_1.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EXPERIMENT INTERVAL PEELER/interval_treatment.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linker.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/make_links.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modelling.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cracks .gld/p33FJ256MC710.gld" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cracks .gld/p33FJ256MC710modif.gld" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problema.csp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reset.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rtMonitoring.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace (AMALIA's conflicted copy 2015-04-10).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace (NORAH's conflicted copy 2015-04-08).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scan.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/serialBoot040914.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/serialBoot190914.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/serialBoot290814.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testProgressBar.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testcommand.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testcurses.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testprompt.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../LedBlinking.zip" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/serialBoot (AMALIA's conflicted copy 2014-10-28).py" afterPath="$PROJECT_DIR$/cracks .gld/serialBoot.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../usb_cdc/test_cx_usb.m" afterPath="$PROJECT_DIR$/../matlab/monitorCarlos.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/025.ico" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/025.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/16-bit Flash Programmer.cof" afterPath="$PROJECT_DIR$/../bootloader/16-bit Flash Programmer.cof" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/16-bit Flash Programmer.mcw" afterPath="$PROJECT_DIR$/../bootloader/16-bit Flash Programmer.mcw" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/2.ico" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/2.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/3.ico" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/3.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/6.ico" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/6.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Ejecutable/6.ico" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Ejecutable/6.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/6.ico" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/6.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/Backup Of simulación.pdsbak" afterPath="$PROJECT_DIR$/../usb_cdc/Backup Of simulación.pdsbak" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/Brain.ico" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/Brain.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/CB Charlie Brown2.ico" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/CB Charlie Brown2.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/Chicos del vecindari 001.ico" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/Chicos del vecindari 001.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Codigo Fuente/includes/Crear_Form_principal.au3" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Codigo Fuente/includes/Crear_Form_principal.au3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Codigo Fuente/includes/Crear_Form_secundario.au3" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Codigo Fuente/includes/Crear_Form_secundario.au3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/Familia simpsons 002.ico" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/Familia simpsons 002.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/Familia simpsons 003.ico" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/Familia simpsons 003.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/Last Loaded simulación.DBK" afterPath="$PROJECT_DIR$/../usb_cdc/Last Loaded simulación.DBK" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Manual v3.1 - INF Enumeración Datos uC PIC-USB.chm" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Manual v3.1 - INF Enumeración Datos uC PIC-USB.chm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/Mario64.ico" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/Mario64.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/Pinky.ico" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/Pinky.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/Scooby.ico" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/Scooby.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/Speed Racer.ico" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/Speed Racer.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/Stimpy 6.ico" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/Stimpy 6.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/Tv 016.ico" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/Tv 016.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/Wakko 1.ico" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/Wakko 1.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/allrptinfo.mat" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/allrptinfo.mat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/base (main).esym" afterPath="$PROJECT_DIR$/../usb_cdc/base (main).esym" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/base.cof" afterPath="$PROJECT_DIR$/../usb_cdc/base.cof" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/base.tre" afterPath="$PROJECT_DIR$/../usb_cdc/base.tre" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/base_complemento.bak" afterPath="$PROJECT_DIR$/../usb_cdc/base_complemento.bak" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/dist/default/production/bootloader.production.elf" afterPath="$PROJECT_DIR$/../bootloader/dist/default/production/bootloader.production.elf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Codigo Fuente/includes/crear_desc_scope.au3" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Codigo Fuente/includes/crear_desc_scope.au3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Codigo Fuente/includes/crear_funciones_generales.au3" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Codigo Fuente/includes/crear_funciones_generales.au3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Codigo Fuente/enumer_picusb.au3.bak" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Codigo Fuente/enumer_picusb.au3.bak" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Codigo Fuente/enumer_picusb.au3" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Codigo Fuente/enumer_picusb.au3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Ejecutable/enumer_picusb.exe" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Ejecutable/enumer_picusb.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/folder.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/folder.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/folder.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/folder.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/folder_failed.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/folder_failed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/folder_failed.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/folder_failed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/folder_pass.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/folder_pass.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/folder_pass.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/folder_pass.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/folder_warning.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/folder_warning.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/folder_warning.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/folder_warning.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Codigo Fuente/includes/funciones_changes_txt.au3" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Codigo Fuente/includes/funciones_changes_txt.au3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/geninfo.mat" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/geninfo.mat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/geninfo.mat" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/geninfo.mat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/hellokitty.ico" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/hellokitty.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/icon_folder.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/icon_folder.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/icon_folder.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/icon_folder.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/icon_procedure.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/icon_procedure.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/icon_procedure.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/icon_procedure.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/icon_task.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/icon_task.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/icon_task.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/icon_task.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/icon_task_disabled.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/icon_task_disabled.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/icon_task_disabled.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/icon_task_disabled.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/icon_task_pselected.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/icon_task_pselected.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/icon_task_pselected.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/icon_task_pselected.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/icon_task_required.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/icon_task_required.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/icon_task_required.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/icon_task_required.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/info_icon.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/info_icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/info_icon.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/info_icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/macro.ini" afterPath="$PROJECT_DIR$/../usb_cdc/macro.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/main.o" afterPath="$PROJECT_DIR$/../bootloader/main.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/build/default/production/main.o" afterPath="$PROJECT_DIR$/../bootloader/build/default/production/main.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Drivers uCPIC Microchip v1.1.0.0 23-junio-2008/USB CDC Serial Demo/inf/mchpcdc.cat" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Drivers uCPIC Microchip v1.1.0.0 23-junio-2008/USB CDC Serial Demo/inf/mchpcdc.cat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Drivers uCPIC Microchip v1.1.0.0 23-junio-2008/MCHPUSB Driver/Release/mchpusb.cat" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Drivers uCPIC Microchip v1.1.0.0 23-junio-2008/MCHPUSB Driver/Release/mchpusb.cat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Drivers uCPIC Microchip v1.1.0.0 23-junio-2008/MCHPUSB Driver/Release/mchpusb.sys" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Drivers uCPIC Microchip v1.1.0.0 23-junio-2008/MCHPUSB Driver/Release/mchpusb.sys" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Drivers uCPIC Microchip v1.1.0.0 23-junio-2008/MCHPUSB Driver/Release/mchpusb64.sys" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Drivers uCPIC Microchip v1.1.0.0 23-junio-2008/MCHPUSB Driver/Release/mchpusb64.sys" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/mdladvinfo.mat" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/mdladvinfo.mat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/mdladvinfo.mat" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/mdladvinfo.mat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/memory.o" afterPath="$PROJECT_DIR$/../bootloader/memory.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/build/default/production/memory.o" afterPath="$PROJECT_DIR$/../bootloader/build/default/production/memory.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/minus.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/minus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/minus.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/minus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Ejecutable/perro7.ico" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Ejecutable/perro7.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/plus.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/plus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/plus.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/plus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/nbproject/private/private.properties" afterPath="$PROJECT_DIR$/../bootloader/nbproject/private/private.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/base.X/nbproject/private/private.properties" afterPath="$PROJECT_DIR$/../usb_cdc/base.X/nbproject/private/private.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/nbproject/private/private.properties" afterPath="$PROJECT_DIR$/../usb_cdc/nbproject/private/private.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/procedure_failed.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/procedure_failed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/procedure_failed.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/procedure_failed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/procedure_passed.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/procedure_passed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/procedure_passed.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/procedure_passed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/procedure_warning.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/procedure_warning.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/procedure_warning.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/procedure_warning.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/nbproject/project.properties" afterPath="$PROJECT_DIR$/../bootloader/nbproject/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/base.X/nbproject/project.properties" afterPath="$PROJECT_DIR$/../usb_cdc/base.X/nbproject/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/nbproject/project.properties" afterPath="$PROJECT_DIR$/../usb_cdc/nbproject/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/simulación.PWI" afterPath="$PROJECT_DIR$/../usb_cdc/simulación.PWI" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/simulación.dsn" afterPath="$PROJECT_DIR$/../usb_cdc/simulación.dsn" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/simulación.pdsprj" afterPath="$PROJECT_DIR$/../usb_cdc/simulación.pdsprj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/task_disabled.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/task_disabled.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/task_disabled.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/task_disabled.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/task_failed.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/task_failed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/task_failed.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/task_failed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/task_failed_h.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/task_failed_h.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/task_failed_h.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/task_failed_h.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/task_forcepass.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/task_forcepass.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/task_forcepass.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/task_forcepass.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/task_passed.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/task_passed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/task_passed.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/task_passed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/task_req_forcepassed.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/task_req_forcepassed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/task_req_forcepassed.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/task_req_forcepassed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/task_req_passed.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/task_req_passed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/task_req_passed.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/task_req_passed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/task_warning.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/task_warning.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/task_warning.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/task_warning.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/task_warning_h.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/task_warning_h.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/task_warning_h.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/task_warning_h.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Codigo Fuente/includes/texto_multilenguaje.au3" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Codigo Fuente/includes/texto_multilenguaje.au3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/vandv.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/vandv.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/vandv.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/vandv.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/vandvback.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/vandvback.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/vandvback.png" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/vandvback.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/16-bit Flash Programmer.map" afterPath="$PROJECT_DIR$/../bootloader/16-bit Flash Programmer.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/16-bit Flash Programmer.mcp" afterPath="$PROJECT_DIR$/../bootloader/16-bit Flash Programmer.mcp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/16-bit Flash Programmer.mcs" afterPath="$PROJECT_DIR$/../bootloader/16-bit Flash Programmer.mcs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/16-bit Flash Programmer.mptags" afterPath="$PROJECT_DIR$/../bootloader/16-bit Flash Programmer.mptags" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/16-bit Flash Programmer.tagsrc" afterPath="$PROJECT_DIR$/../bootloader/16-bit Flash Programmer.tagsrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Drivers uCPIC Microchip v1.1.0.0 23-junio-2008/MCHPUSB Driver/Release/Important readme.txt" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Drivers uCPIC Microchip v1.1.0.0 23-junio-2008/MCHPUSB Driver/Release/Important readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Drivers uCPIC Microchip v1.1.0.0 23-junio-2008/MCHPUSB Driver/Release/Ioctls.h" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Drivers uCPIC Microchip v1.1.0.0 23-junio-2008/MCHPUSB Driver/Release/Ioctls.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Leeme.txt" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Leeme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Drivers uCPIC Microchip v1.1.0.0 23-junio-2008/MCHPUSB Driver/MCHPUSB Driver Release Notes.htm" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Drivers uCPIC Microchip v1.1.0.0 23-junio-2008/MCHPUSB Driver/MCHPUSB Driver Release Notes.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/nbproject/Makefile-default.mk" afterPath="$PROJECT_DIR$/../bootloader/nbproject/Makefile-default.mk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/nbproject/Makefile-genesis.properties" afterPath="$PROJECT_DIR$/../bootloader/nbproject/Makefile-genesis.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/nbproject/Makefile-impl.mk" afterPath="$PROJECT_DIR$/../bootloader/nbproject/Makefile-impl.mk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/nbproject/Makefile-local-default.mk" afterPath="$PROJECT_DIR$/../bootloader/nbproject/Makefile-local-default.mk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/nbproject/Makefile-variables.mk" afterPath="$PROJECT_DIR$/../bootloader/nbproject/Makefile-variables.mk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/Makefile" afterPath="$PROJECT_DIR$/../bootloader/Makefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/Makefile" afterPath="$PROJECT_DIR$/../usb_cdc/Makefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/base.X/Makefile" afterPath="$PROJECT_DIR$/../usb_cdc/base.X/Makefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/nbproject/Package-default.bash" afterPath="$PROJECT_DIR$/../bootloader/nbproject/Package-default.bash" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/RS232_mfile.m" afterPath="$PROJECT_DIR$/../matlab/RS232_mfile.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Readme.txt" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/base.X/nbproject/private/SuppressibleMessageMemo.properties" afterPath="$PROJECT_DIR$/../usb_cdc/base.X/nbproject/private/SuppressibleMessageMemo.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/archivos/TcfTransactionLog.csv" afterPath="$PROJECT_DIR$/../usb_cdc/archivos/TcfTransactionLog.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/__init__.py" afterPath="$PROJECT_DIR$/elftools/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/common/__init__.py" afterPath="$PROJECT_DIR$/elftools/common/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/construct/__init__.py" afterPath="$PROJECT_DIR$/elftools/construct/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/construct/lib/__init__.py" afterPath="$PROJECT_DIR$/elftools/construct/lib/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/dwarf/__init__.py" afterPath="$PROJECT_DIR$/elftools/dwarf/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/elf/__init__.py" afterPath="$PROJECT_DIR$/elftools/elf/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/progressbar/__init__.py" afterPath="$PROJECT_DIR$/progressbar/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/dwarf/abbrevtable.py" afterPath="$PROJECT_DIR$/elftools/dwarf/abbrevtable.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/construct/adapters.py" afterPath="$PROJECT_DIR$/elftools/construct/adapters.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/base (main).err" afterPath="$PROJECT_DIR$/../usb_cdc/base (main).err" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/base.PJT" afterPath="$PROJECT_DIR$/../usb_cdc/base.PJT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/base.bak" afterPath="$PROJECT_DIR$/../usb_cdc/base.bak" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/base.c" afterPath="$PROJECT_DIR$/../usb_cdc/base.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/base.err" afterPath="$PROJECT_DIR$/../usb_cdc/base.err" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/base.esym" afterPath="$PROJECT_DIR$/../usb_cdc/base.esym" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/base.hex" afterPath="$PROJECT_DIR$/../usb_cdc/base.hex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/base.lst" afterPath="$PROJECT_DIR$/../usb_cdc/base.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/base.sta" afterPath="$PROJECT_DIR$/../usb_cdc/base.sta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/base.sym" afterPath="$PROJECT_DIR$/../usb_cdc/base.sym" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/base" afterPath="$PROJECT_DIR$/../usb_cdc/base" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/base_complemento.h" afterPath="$PROJECT_DIR$/../usb_cdc/base_complemento.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/construct/lib/binary.py" afterPath="$PROJECT_DIR$/elftools/construct/lib/binary.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/construct/lib/bitstream.py" afterPath="$PROJECT_DIR$/elftools/construct/lib/bitstream.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/dist/default/production/bootloader.boot_win.production.map" afterPath="$PROJECT_DIR$/../bootloader/dist/default/production/bootloader.boot_win.production.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/dist/default/production/bootloader.production.hex" afterPath="$PROJECT_DIR$/../bootloader/dist/default/production/bootloader.production.hex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/dwarf/callframe.py" afterPath="$PROJECT_DIR$/elftools/dwarf/callframe.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/progressbar/compat.py" afterPath="$PROJECT_DIR$/progressbar/compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/dwarf/compileunit.py" afterPath="$PROJECT_DIR$/elftools/dwarf/compileunit.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/configSerialBoot.config" afterPath="$PROJECT_DIR$/configSerialBoot.config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/nbproject/configurations.xml" afterPath="$PROJECT_DIR$/../bootloader/nbproject/configurations.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/nbproject/private/configurations.xml" afterPath="$PROJECT_DIR$/../bootloader/nbproject/private/configurations.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/base.X/nbproject/configurations.xml" afterPath="$PROJECT_DIR$/../usb_cdc/base.X/nbproject/configurations.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/base.X/nbproject/private/configurations.xml" afterPath="$PROJECT_DIR$/../usb_cdc/base.X/nbproject/private/configurations.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/nbproject/configurations.xml" afterPath="$PROJECT_DIR$/../usb_cdc/nbproject/configurations.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/nbproject/private/configurations.xml" afterPath="$PROJECT_DIR$/../usb_cdc/nbproject/private/configurations.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/dwarf/constants.py" afterPath="$PROJECT_DIR$/elftools/dwarf/constants.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/elf/constants.py" afterPath="$PROJECT_DIR$/elftools/elf/constants.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/common/construct_utils.py" afterPath="$PROJECT_DIR$/elftools/common/construct_utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/construct/lib/container.py" afterPath="$PROJECT_DIR$/elftools/construct/lib/container.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/controllerdesign.m" afterPath="$PROJECT_DIR$/../matlab/controllerdesign.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/construct/core.py" afterPath="$PROJECT_DIR$/elftools/construct/core.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Codigo Fuente/includes/crear_desc_cdc.au3" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Codigo Fuente/includes/crear_desc_cdc.au3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Codigo Fuente/includes/crear_mchpcdc.au3" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Codigo Fuente/includes/crear_mchpcdc.au3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Codigo Fuente/includes/crear_mchusbapi.au3" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Codigo Fuente/includes/crear_mchusbapi.au3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/construct/debug.py" afterPath="$PROJECT_DIR$/elftools/construct/debug.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/dwarf/descriptions.py" afterPath="$PROJECT_DIR$/elftools/dwarf/descriptions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/elf/descriptions.py" afterPath="$PROJECT_DIR$/elftools/elf/descriptions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/dwarf/die.py" afterPath="$PROJECT_DIR$/elftools/dwarf/die.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/dwarf/dwarf_expr.py" afterPath="$PROJECT_DIR$/elftools/dwarf/dwarf_expr.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/dwarf/dwarfinfo.py" afterPath="$PROJECT_DIR$/elftools/dwarf/dwarfinfo.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/elf/dynamic.py" afterPath="$PROJECT_DIR$/elftools/elf/dynamic.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/elf/elffile.py" afterPath="$PROJECT_DIR$/elftools/elf/elffile.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Ejecutable/enum_picusb.ini" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Ejecutable/enum_picusb.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/dwarf/enums.py" afterPath="$PROJECT_DIR$/elftools/dwarf/enums.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/elf/enums.py" afterPath="$PROJECT_DIR$/elftools/elf/enums.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/common/exceptions.py" afterPath="$PROJECT_DIR$/elftools/common/exceptions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/elf/gnuversions.py" afterPath="$PROJECT_DIR$/elftools/elf/gnuversions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/construct/lib/hex.py" afterPath="$PROJECT_DIR$/elftools/construct/lib/hex.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/leeme.txt" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/iconos/leeme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/dwarf/lineprogram.py" afterPath="$PROJECT_DIR$/elftools/dwarf/lineprogram.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/dwarf/locationlists.py" afterPath="$PROJECT_DIR$/elftools/dwarf/locationlists.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/construct/macros.py" afterPath="$PROJECT_DIR$/elftools/construct/macros.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/main.c" afterPath="$PROJECT_DIR$/../bootloader/main.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/build/default/production/main.o.d" afterPath="$PROJECT_DIR$/../bootloader/build/default/production/main.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/controlador vista seven/mchpcdc.inf" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/controlador vista seven/mchpcdc.inf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Drivers uCPIC Microchip v1.1.0.0 23-junio-2008/USB CDC Serial Demo/inf/mchpcdc.inf" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Drivers uCPIC Microchip v1.1.0.0 23-junio-2008/USB CDC Serial Demo/inf/mchpcdc.inf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/controlador vista seven/mchpcdc64bits.inf" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/controlador vista seven/mchpcdc64bits.inf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Drivers uCPIC Microchip v1.1.0.0 23-junio-2008/MCHPUSB Driver/Release/mchpusb.inf" afterPath="$PROJECT_DIR$/../usb_cdc/controlador/v3.1-INF_Enumeration_uC_PIC-USB(1)/Drivers uCPIC Microchip v1.1.0.0 23-junio-2008/MCHPUSB Driver/Release/mchpusb.inf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/build/default/production/memory.o.d" afterPath="$PROJECT_DIR$/../bootloader/build/default/production/memory.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/memory.s" afterPath="$PROJECT_DIR$/../bootloader/memory.s" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/model_diagnose.html" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/model_diagnose.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/model_diagnose.html" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/model_diagnose.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/model_diagnose_custom.html" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/model_diagnose_custom.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/model_diagnose_custom.html" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/model_diagnose_custom.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/model_diagnose_left.html" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/model_diagnose_left.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/model_diagnose_left.html" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/model_diagnose_left.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/model_diagnose_task.html" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/model_diagnose_task.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/model_diagnose_task.html" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/model_diagnose_task.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/common/ordereddict.py" afterPath="$PROJECT_DIR$/elftools/common/ordereddict.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/p33FJ256MC710.gld" afterPath="$PROJECT_DIR$/../bootloader/p33FJ256MC710.gld" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/nbproject/private/private.xml" afterPath="$PROJECT_DIR$/../bootloader/nbproject/private/private.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bootloader/nbproject/project.xml" afterPath="$PROJECT_DIR$/../bootloader/nbproject/project.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/base.X/nbproject/project.xml" afterPath="$PROJECT_DIR$/../usb_cdc/base.X/nbproject/project.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/nbproject/project.xml" afterPath="$PROJECT_DIR$/../usb_cdc/nbproject/project.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/common/py3compat.py" afterPath="$PROJECT_DIR$/elftools/common/py3compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/construct/lib/py3compat.py" afterPath="$PROJECT_DIR$/elftools/construct/lib/py3compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/dwarf/ranges.py" afterPath="$PROJECT_DIR$/elftools/dwarf/ranges.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/elf/relocation.py" afterPath="$PROJECT_DIR$/elftools/elf/relocation.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/report.html" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/report.html" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/untitled/report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/report_259.html" afterPath="$PROJECT_DIR$/../matlab/slprj/modeladvisor/supercontrol/report_259.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/elf/sections.py" afterPath="$PROJECT_DIR$/elftools/elf/sections.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/elf/segments.py" afterPath="$PROJECT_DIR$/elftools/elf/segments.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/serialBoot.py" afterPath="$PROJECT_DIR$/serialBoot.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/simulación.pdsprj.XAVIER_ROSERO.CARLOSXAVIER.workspace" afterPath="$PROJECT_DIR$/../usb_cdc/simulación.pdsprj.XAVIER_ROSERO.CARLOSXAVIER.workspace" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/slprj/sl_proj.tmw" afterPath="$PROJECT_DIR$/../matlab/slprj/sl_proj.tmw" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/dwarf/structs.py" afterPath="$PROJECT_DIR$/elftools/dwarf/structs.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/elf/structs.py" afterPath="$PROJECT_DIR$/elftools/elf/structs.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/supercontrol.mdl" afterPath="$PROJECT_DIR$/../matlab/supercontrol.mdl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../matlab/untitled.mdl" afterPath="$PROJECT_DIR$/../matlab/untitled.mdl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/archivos/usb_cdc.bak" afterPath="$PROJECT_DIR$/../usb_cdc/archivos/usb_cdc.bak" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/archivos/usb_cdc.h" afterPath="$PROJECT_DIR$/../usb_cdc/archivos/usb_cdc.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/archivos/usb_cdc.h_cbf" afterPath="$PROJECT_DIR$/../usb_cdc/archivos/usb_cdc.h_cbf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/archivos/usb_cdc_base.bak" afterPath="$PROJECT_DIR$/../usb_cdc/archivos/usb_cdc_base.bak" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/archivos/usb_cdc_base.h" afterPath="$PROJECT_DIR$/../usb_cdc/archivos/usb_cdc_base.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../usb_cdc/archivos/usb_cdc_base.h_cbf" afterPath="$PROJECT_DIR$/../usb_cdc/archivos/usb_cdc_base.h_cbf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elftools/common/utils.py" afterPath="$PROJECT_DIR$/elftools/common/utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/progressbar/widgets.py" afterPath="$PROJECT_DIR$/progressbar/widgets.py" />
+    </list>
+    <ignored path="BootloaderInterface.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="BootloaderInterface" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Pendulum.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Pendulum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.8907767" vertical-offset="1553" max-vertical-offset="2325">
+              <caret line="150" column="0" selection-start-line="150" selection-start-column="0" selection-end-line="150" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+                <element signature="e#3574#4066#0" expanded="false" />
+                <element signature="e#4103#4445#0" expanded="false" />
+                <element signature="e#5742#7222#0" expanded="false" />
+                <element signature="e#7257#7305#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.285714" vertical-offset="0" max-vertical-offset="750">
+              <caret line="8" column="75" selection-start-line="8" selection-start-column="75" selection-end-line="8" selection-end-column="75" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="615">
+              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/serialBoot.py" />
+        <option value="$PROJECT_DIR$/reset.py" />
+        <option value="$PROJECT_DIR$/erase.py" />
+        <option value="$PROJECT_DIR$/experiment.csp" />
+        <option value="$PROJECT_DIR$/problema.csp" />
+        <option value="$PROJECT_DIR$/interval_treatment.py" />
+        <option value="$PROJECT_DIR$/TEST1.py" />
+        <option value="$PROJECT_DIR$/testMatplotlib.py" />
+        <option value="$PROJECT_DIR$/settings.py" />
+        <option value="$PROJECT_DIR$/modelling.py" />
+        <option value="$PROJECT_DIR$/testThread.py" />
+        <option value="$PROJECT_DIR$/rtMonitoring.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/Pendulum.py" />
+        <option value="$PROJECT_DIR$/test1.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-3" />
+    <option name="y" value="25" />
+    <option name="width" value="1372" />
+    <option name="height" value="720" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BootloaderInterface" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BootloaderInterface" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BootloaderInterface" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="options.splitter.main.proportions" value="0.3375" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="BootloaderInterface" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="BootloaderInterface" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test1">
+    <configuration default="false" name="rtMonitoring" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BootloaderInterface" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rtMonitoring.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Pendulum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BootloaderInterface" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pendulum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BootloaderInterface" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BootloaderInterface" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/settings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BootloaderInterface" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BootloaderInterface" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BootloaderInterface" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BootloaderInterface" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BootloaderInterface" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BootloaderInterface" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BootloaderInterface" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.rtMonitoring" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Pendulum" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test" />
+      <item index="3" class="java.lang.String" itemvalue="Python.settings" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test1" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.test1" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Pendulum" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test" />
+        <item index="3" class="java.lang.String" itemvalue="Python.settings" />
+        <item index="4" class="java.lang.String" itemvalue="Python.rtMonitoring" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8669d48d-3ecb-4155-9675-b4c655191397" name="Default" comment="" />
+      <created>1414575545757</created>
+      <option name="number" value="Default" />
+      <updated>1414575545757</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-3" y="25" width="1372" height="720" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.49926794" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.4996277" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24944155" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24816984" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39872408" sideWeight="0.4996277" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32371795" sideWeight="0.49853587" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23076923" sideWeight="0.8491947" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23076923" sideWeight="0.15080526" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.30307466" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="22" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/serialBoot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="16254" max-vertical-offset="22122">
+          <caret line="903" column="36" selection-start-line="903" selection-start-column="36" selection-end-line="903" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3330" max-vertical-offset="4032">
+          <caret line="199" column="34" selection-start-line="199" selection-start-column="34" selection-end-line="199" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="901" max-vertical-offset="1512">
+          <caret line="52" column="40" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/erase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1692">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serialBoot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="22122">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3330" max-vertical-offset="4032">
+          <caret line="199" column="34" selection-start-line="199" selection-start-column="34" selection-end-line="199" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="936" max-vertical-offset="1512">
+          <caret line="52" column="40" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/erase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1080" max-vertical-offset="1692">
+          <caret line="60" column="29" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serialBoot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="18435">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2736" max-vertical-offset="3360">
+          <caret line="199" column="34" selection-start-line="199" selection-start-column="34" selection-end-line="199" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="636" max-vertical-offset="1260">
+          <caret line="52" column="40" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/erase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="786" max-vertical-offset="1410">
+          <caret line="60" column="29" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serialBoot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="13040" max-vertical-offset="18435">
+          <caret line="875" column="16" selection-start-line="875" selection-start-column="4" selection-end-line="875" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2777" max-vertical-offset="3360">
+          <caret line="199" column="34" selection-start-line="199" selection-start-column="34" selection-end-line="199" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1260">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/erase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="792" max-vertical-offset="1410">
+          <caret line="60" column="29" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serialBoot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1365" max-vertical-offset="18435">
+          <caret line="91" column="46" selection-start-line="91" selection-start-column="46" selection-end-line="91" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2970">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/erase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="792" max-vertical-offset="1410">
+          <caret line="79" column="20" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serialBoot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1365" max-vertical-offset="18435">
+          <caret line="91" column="46" selection-start-line="91" selection-start-column="46" selection-end-line="91" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1290" max-vertical-offset="2970">
+          <caret line="100" column="29" selection-start-line="100" selection-start-column="29" selection-end-line="100" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/erase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1410">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serialBoot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1340" max-vertical-offset="15690">
+          <caret line="108" column="27" selection-start-line="108" selection-start-column="27" selection-end-line="108" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="914" max-vertical-offset="3390">
+          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/erase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1395">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serialBoot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1935" max-vertical-offset="13890">
+          <caret line="130" column="16" selection-start-line="130" selection-start-column="16" selection-end-line="130" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serialBoot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3201" max-vertical-offset="5760">
+          <caret line="913" column="82" selection-start-line="913" selection-start-column="82" selection-end-line="913" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serialBoot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5760">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serialBoot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="13365" max-vertical-offset="17640">
+          <caret line="891" column="0" selection-start-line="891" selection-start-column="0" selection-end-line="891" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serialBoot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="13365" max-vertical-offset="17640">
+          <caret line="891" column="0" selection-start-line="891" selection-start-column="0" selection-end-line="891" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serialBoot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6810" max-vertical-offset="21096">
+          <caret line="186" column="5" selection-start-line="186" selection-start-column="5" selection-end-line="186" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serialBoot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6810" max-vertical-offset="21096">
+          <caret line="186" column="5" selection-start-line="186" selection-start-column="5" selection-end-line="186" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serialBoot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="918" max-vertical-offset="21096">
+          <caret line="57" column="27" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/dist-packages/gi/module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49052632" vertical-offset="1267" max-vertical-offset="4815">
+          <caret line="103" column="68" selection-start-line="103" selection-start-column="68" selection-end-line="103" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/dist-packages/gi/types.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3326316" vertical-offset="307" max-vertical-offset="4335">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275">
+          <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="4285" max-vertical-offset="16560">
+          <caret line="295" column="0" selection-start-line="295" selection-start-column="0" selection-end-line="295" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problema.csp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15" vertical-offset="0" max-vertical-offset="400">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/dist-packages/gi/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3325" vertical-offset="332" max-vertical-offset="1425">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/erase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2627552" vertical-offset="0" max-vertical-offset="1425">
+          <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/dist-packages/matplotlib/axes/_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33163264" vertical-offset="4190" max-vertical-offset="49860">
+          <caret line="302" column="0" selection-start-line="302" selection-start-column="0" selection-end-line="302" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3970588" vertical-offset="0" max-vertical-offset="20055">
+          <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/dist-packages/matplotlib/lines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="12599" max-vertical-offset="20850">
+          <caret line="870" column="0" selection-start-line="870" selection-start-column="0" selection-end-line="870" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33774835" vertical-offset="2547" max-vertical-offset="3000">
+          <caret line="195" column="0" selection-start-line="195" selection-start-column="0" selection-end-line="195" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serialBoot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="555" max-vertical-offset="18435">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3091" max-vertical-offset="4110">
+          <caret line="223" column="79" selection-start-line="217" selection-start-column="1" selection-end-line="223" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rtMonitoring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3951435" vertical-offset="238" max-vertical-offset="2910">
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.285714" vertical-offset="0" max-vertical-offset="750">
+          <caret line="8" column="75" selection-start-line="8" selection-start-column="75" selection-end-line="8" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="615">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pendulum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8907767" vertical-offset="1553" max-vertical-offset="2325">
+          <caret line="150" column="0" selection-start-line="150" selection-start-column="0" selection-end-line="150" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+            <element signature="e#3574#4066#0" expanded="false" />
+            <element signature="e#4103#4445#0" expanded="false" />
+            <element signature="e#5742#7222#0" expanded="false" />
+            <element signature="e#7257#7305#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

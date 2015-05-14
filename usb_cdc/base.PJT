@@ -1,0 +1,69 @@
+[PROJECT]
+Target=base.hex
+Development_Mode=
+Processor=0x2550
+Processor_Text=PIC18F2550
+ToolSuite=CCS
+
+[Directories]
+Include=C:\Archivos de programa\PICC\devices\;C:\Archivos de programa\PICC\drivers\;C:\Documents and Settings\Administrador\Escritorio\PROYECTO ALARMA GSM GPS\firmware interfaz usb;C:\Documents and Settings\Administrador\Escritorio\PROYECTO ALARMA GSM GPS\firmware interfaz usb\archivos;
+Library=
+LinkerScript=
+
+[Target Data]
+FileList=C:\Documents and Settings\Administrador\Escritorio\PROYECTO ALARMA GSM GPS\firmware interfaz usb\base.c
+BuildTool=C-COMPILER
+OptionString=+FH
+AdditionalOptionString=
+BuildRequired=1
+
+[base.c]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+
+[mru-list]
+1=base
+
+[Windows]
+0=0000 %S 0 0 796 451 3 0
+
+[Opened Files]
+1=base.c
+2=base_complemento.h
+3=
+4=..\..\..\..\Program Files (x86)\PICC\drivers\usb.h
+5=archivos\USB_Cdc_base.h
+6=..\..\..\..\Program Files (x86)\PICC\drivers\usb.c
+7=..\..\..\..\Program Files (x86)\PICC\drivers\stdlib.h
+8=
+[defines]
+enabled=0
+D1=
+V1=
+[fileformats]
+forcecoff=0
+debug=4
+error=2
+object=0
+list=0
+scratch=0
+sta=1
+tre=1
+allerrors=1
+allwarnings=1
+stayupne=3
+stayupoe=0
+[base]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+[Units]
+Count=1
+1=base.c (main)
